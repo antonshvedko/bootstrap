@@ -1,0 +1,15 @@
+.card {
+
+	img{
+		object-fit: cover;
+		width: auto;
+		height: 300px;
+		vertical-align: top;
+	}
+}
+
+.navbar {
+	.form-control, .btn {
+		margin: 3px;
+	}
+}
